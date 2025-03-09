@@ -1,10 +1,4 @@
+url: https://tl2624.github.io/apm/
 template:
   bootstrap: 5
-reference:
-  - contents:
-    - apm_mod
-    - apm_pre
-    - plot.apm_pre_fits
-    - apm_est
-    - robustness_bound
-    - ptpdata
+
